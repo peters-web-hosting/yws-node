@@ -1,6 +1,6 @@
 # IP Blocker Middleware
 
-`ip-blocker` is a Node.js middleware package designed for Express.js applications. It blocks incoming requests from IP addresses that are considered risky based on an external risk assessment API. If an IP address has a risk score above a configurable threshold, the middleware responds with a `403 Forbidden` status code.
+`yourwebshield` is a Node.js middleware package designed for Express.js applications. It blocks incoming requests from IP addresses that are considered risky based on an external risk assessment API. If an IP address has a risk score above a configurable threshold, the middleware responds with a `403 Forbidden` status code.
 
 ## Features
 
@@ -13,4 +13,4 @@
 Install the package via npm:
 
 ```bash
-npm install ip-blocker
+npm i yourwebshield
