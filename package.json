@@ -1,6 +1,6 @@
 {
-  "name": "ip-blocker",
-  "version": "1.0.0",
+  "name": "yourwebshield",
+  "version": "1.0.1",
   "description": "A middleware package for blocking risky IPs based on risk score.",
   "main": "ipBlocker.js",
   "scripts": {
@@ -8,15 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peters-web-hosting/yws-node.git"
+    "url": "https://github.com/peters-web-hosting/yws-node/"
   },
   "keywords": [
     "ip",
     "blocker",
     "security",
-    "middleware"
+    "middleware",
+    "yourwebshield"
   ],
-  "author": "Your Name <your-email@example.com>",
+  "author": "Your Web Shield <peter@yourwebshield.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.5.1",
