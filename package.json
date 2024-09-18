@@ -1,6 +1,6 @@
 {
   "name": "yourwebshield",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A middleware package for blocking risky IPs based on risk score.",
   "main": "ipBlocker.js",
   "scripts": {
