@@ -10,9 +10,7 @@
 - **Seamless Integration:** Easily integrate the middleware into any Express.js application.
 
 ## Changes
-**1.1.1** - Inproved Bot Detection, and code refactored
-**1.1.0** - Rate Limiting added.
-**1.0.1** - initial version
+See [Changelog](https://data.yourwebshield.co.uk/changelog/node) for details
 ## Installation
 
 Install the package via npm:
